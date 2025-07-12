@@ -33,6 +33,40 @@ class User(db.Model):
             "is_public": self.is_public,
             "is_banned": self.is_banned
         }
+    
+class Skills3(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    title = db.Column(db.String(120))
+    description = db.Column(db.Text)
+    category = db.Column(db.String(50))
+    location = db.Column(db.String(100))
+    duration = db.Column(db.String(50))
+    price = db.Column(db.String(20))
+    rating = db.Column(db.Float)
+    user_name = db.Column(db.String(100))
+    user_avatar = db.Column(db.String(255))
+    icon = db.Column(db.String(10))
+    color1 = db.Column(db.String(20))
+    color2 = db.Column(db.String(20))
+    img = db.Column(db.String(255))
+
+    def to_dict(self):
+        return {
+            "id": self.id,
+            "title": self.title,
+            "description": self.description,
+            "category": self.category,
+            "location": self.location,
+            "duration": self.duration,
+            "price": self.price,
+            "rating": self.rating,
+            "userName": self.user_name,
+            "userAvatar": self.user_avatar,
+            "icon": self.icon,
+            "color1": self.color1,
+            "color2": self.color2,
+            "img": self.img,
+        }
 
 # ----- SwapRequest Model -----
 class SwapRequest(db.Model):

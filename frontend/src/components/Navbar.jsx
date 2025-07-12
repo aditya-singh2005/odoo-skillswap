@@ -64,14 +64,19 @@ const Navbar = () => {
           </div>
 
           {/* Desktop Auth Buttons */}
-          <div className="hidden md:flex items-center space-x-4">
-            <button className="text-gray-700 hover:text-purple-600 px-4 py-2 text-sm font-medium transition-colors">
-              Login
-            </button>
-            <button className="bg-gradient-to-r from-purple-500 to-pink-500 hover:from-purple-600 hover:to-pink-600 text-white px-6 py-2 rounded-full text-sm font-medium transition-all duration-300 transform hover:scale-105">
-              Sign Up
-            </button>
-          </div>
+         <div className="hidden md:flex items-center space-x-4">
+  <a href="/login">
+    <button className="text-gray-700 hover:text-purple-600 px-4 py-2 text-sm font-medium transition-colors">
+      Login
+    </button>
+  </a>
+  <a href="/signup">
+    <button className="bg-gradient-to-r from-purple-500 to-pink-500 hover:from-purple-600 hover:to-pink-600 text-white px-6 py-2 rounded-full text-sm font-medium transition-all duration-300 transform hover:scale-105">
+      Sign Up
+    </button>
+  </a>
+</div>
+
 
           {/* Mobile menu button */}
           <div className="md:hidden">

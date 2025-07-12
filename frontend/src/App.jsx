@@ -5,6 +5,7 @@ import Skills from './components/Skills'
 import Request from './components/Request'
 import Profile from './components/Profile'
 import MakeRequest from './components/MakeRequest'
+import AuthPage from './components/authpage'
 
 function App() {
   return (
