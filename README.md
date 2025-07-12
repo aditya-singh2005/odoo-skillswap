@@ -12,17 +12,15 @@
 | Rakshit Khrab      | Designer / UX |
 | Khushi             | Database + Testing |
 
-_Add your real teammate names here!_
 ## ✨ Team SkillSwap
 
-| Name               | Role                     |
+| Email            | Role                     |
 |--------------------|--------------------------|
 | job.singhaditya00005@gmail.com  | Frontend Developer
 | jindal.kh12@gmail.com   | Backend Developer (Flask + DB) |
 | rakshitkharb2323@gmail.com     | Designer / UX |
 | 777khush.k@gmail.com          | Database + Testing |
 
-_Add your real teammate names here!_
 
 
 ## 🚀 Features
