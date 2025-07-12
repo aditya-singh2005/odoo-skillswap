@@ -17,6 +17,7 @@
 ![App Screenshot](https://github.com/aditya-singh2005/odoo-skillswap/blob/main/Screenshot%202025-07-12%20171500.png)
 ![App Screenshot](https://github.com/aditya-singh2005/odoo-skillswap/blob/main/Screenshot%202025-07-12%20171639.png)
 ![App Screenshot](https://github.com/aditya-singh2005/odoo-skillswap/blob/main/swaprequests.jpg)
+![App Screenshot](https://github.com/aditya-singh2005/odoo-skillswap/blob/main/requestskill.jpg)
 ## 🚀 Features
 
 👤 **User Profile**
