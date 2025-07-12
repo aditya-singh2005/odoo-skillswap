@@ -3,6 +3,27 @@
 **Skill Swap** is a dynamic web platform that empowers individuals to **offer their skills** and **request skills** in return — without the need for monetary exchange. It's a community-driven space where learning and sharing go hand-in-hand.
 
 ---
+## ✨ Team SkillSwap
+
+| Name               | Role                     |
+|--------------------|--------------------------|
+| Aditya Singh        | Frontend Developer
+| Khawaish Jindal    | Backend Developer (Flask + DB) |
+| Rakshit Khrab      | Designer / UX |
+| Khushi             | Database + Testing |
+
+_Add your real teammate names here!_
+## ✨ Team SkillSwap
+
+| Name               | Role                     |
+|--------------------|--------------------------|
+| job.singhaditya00005@gmail.com  | Frontend Developer
+| jindal.kh12@gmail.com   | Backend Developer (Flask + DB) |
+| rakshitkharb2323@gmail.com     | Designer / UX |
+| 777khush.k@gmail.com          | Database + Testing |
+
+_Add your real teammate names here!_
+
 
 ## 🚀 Features
 
@@ -63,18 +84,9 @@
 
 ---
 
-## ✨ Team SkillSwap
 
-| Name               | Role                     |
-|--------------------|--------------------------|
-| Aditya Singh        | Frontend Developer
-| Khawaish Jindal    | Backend Developer (Flask + DB) |
-| Rakshit Khrab      | Designer / UX |
-| Khushi             | Database + Testing |
-
-_Add your real teammate names here!_
 
 ---
 
-## 📂 Folder Structure (Backend)
+
 
