@@ -5,23 +5,15 @@
 ---
 ## ✨ Team SkillSwap
 
-| Name               | Role                     |
-|--------------------|--------------------------|
-| Aditya Singh        | Frontend Developer
-| Khawaish Jindal    | Backend Developer (Flask + DB) |
-| Rakshit Khrab      | Designer / UX |
-| Khushi             | Database + Testing |
-
-## ✨ Team SkillSwap
-
-| Email            | Role                     |
-|--------------------|--------------------------|
-| job.singhaditya00005@gmail.com  | Frontend Developer
-| jindal.kh12@gmail.com   | Backend Developer (Flask + DB) |
-| rakshitkharb2323@gmail.com     | Designer / UX |
-| 777khush.k@gmail.com          | Database + Testing |
+| Name               | Role                     | Email      |
+|--------------------|--------------------------|------------|
+| Aditya Singh        | Frontend Developer | job.singhaditya00005@gmail.com |
+| Khawaish Jindal    | Backend Developer (Flask + DB) | jindal.kh12@gmail.com |
+| Rakshit Khrab      | Designer / UX | rakshitkharb2323@gmail.com |
+| Khushi             | Database + Testing | 777khush.k@gmail.com | 
 
 
+![App Screenshot](./assets/screenshot.png)
 
 ## 🚀 Features
 
