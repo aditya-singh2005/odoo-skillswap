@@ -5,7 +5,7 @@ import Skills from './components/Skills'
 import Request from './components/Request'
 import Profile from './components/Profile'
 import MakeRequest from './components/MakeRequest'
-import AuthPage from './components/authpage'
+import LoginSignUp from './components/LoginSignUp'
 
 function App() {
   return (
@@ -13,6 +13,7 @@ function App() {
       <div>
         <Routes>
           <Route path="/" element={<Home />} />
+          <Route path="/login-signup" element={<LoginSignUp />} />
           <Route path="/skills" element={<Skills />} />
           <Route path="/request" element={<Request />} />
           <Route path="/profile" element={<Profile />} />
