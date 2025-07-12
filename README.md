@@ -13,7 +13,7 @@
 | Khushi             | Database + Testing | 777khush.k@gmail.com | 
 
 
-![App Screenshot](./assets/screenshot.png)
+![App Screenshot](https://github.com/aditya-singh2005/odoo-skillswap/blob/main/Screenshot%202025-07-12%20165947.png)
 
 ## 🚀 Features
 
